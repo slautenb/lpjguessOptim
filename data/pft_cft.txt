@@ -1,0 +1,12 @@
+ID; PFT; Name; Color
+0; PNV; "Potential natural vegetation"; darkolivegreen
+1; TeWW; "C3 cereals"; wheat
+2; TeWWi; "C3 cereals irrigated"; sienna4
+3; TeSW; "C3 non-cereals"; plum1
+4; TeSWi; "C3 non-cereals irrigated"; magenta
+5; TeCo; Corn; orange
+6; TeCoi; "Corn irrigated"; purple
+7; TrRi; Rice;lightblue
+8; TrRii; "Rice irrigated"; blue3
+9; Pas; "Pasture"; chartreuse
+

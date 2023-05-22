@@ -1,0 +1,10 @@
+biomID biomName r g b
+1 "Tropical forest" 0 .55 .2
+2 "Temperate forest" .31 .94 .65
+3 "Boreal forest" 0 .6 .6
+4 "Tropical savannas" .8 1 0
+5 "Temperate shrub or woodland" 1 .29 .60
+6 "Grassland" .98 .78 0
+7 "Tundra" .8 .8 1
+8 "Desert" 1 1 .7
+
