@@ -1,5 +1,6 @@
 # lpjguessOptim
-Source code and data for Bayer, Lautenbach, Arneth *More food, more water, less carbon? Costs and benefits of global land-use optimality*
+Source code and data for Bayer, Lautenbach, Arneth *Benefits and trade-offs of optimizing global land use for food,
+water, and carbon*
 
 The code consists of three stages: 
 the first one is written in R, the other two in python 2.7.
